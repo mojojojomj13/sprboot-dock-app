@@ -13,10 +13,10 @@ import lombok.extern.slf4j.Slf4j;
 @Slf4j
 public class DockerSpringBootApplicationTests {
 
-	@Test
-	public void contextLoads() {
-		log.info("Application context has loaded....");
-	}
+    @Test
+    public void contextLoads() {
+        log.info("Application context has loaded....");
+    }
 
 }
 
